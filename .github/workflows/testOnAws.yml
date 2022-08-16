@@ -41,4 +41,3 @@ jobs:
         test_spec_type: APPIUM_PYTHON_TEST_SPEC
         remote_src: true
         
-        
